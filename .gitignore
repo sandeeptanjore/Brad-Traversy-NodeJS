@@ -1,0 +1,73 @@
+# Devcamper sample files by Brad
+devcamper_project_resources/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Build directories
+dist/
+build/
+out/
+
+# Dependency directories
+bower_components/
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Testing files
+coverage/
+*.lcov
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache files
+.cache/
+*.cache
+*.pyc
+.cache-loader/
+.parcel-cache/
+
+# Frontend frameworks
+/.nuxt
+/.next
+/.vuepress/dist
+/.sass-cache
+/.expo
+
+# Static site generators
+public/
+.cache/
+.cache-loader/
+
+# CMS files
+/wp-content/uploads/
+
+# Other
+*.bak
+*.orig
